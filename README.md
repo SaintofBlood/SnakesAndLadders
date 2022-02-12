@@ -2,7 +2,7 @@
 
  Simple snakes and ladder game created using pygame module.
  
-![Screenshot](https://github.com/michal2010/SnakesAndLadders/blob/main/screenshots/1.png)
+<img src="https://github.com/michal2010/SnakesAndLadders/blob/main/screenshots/1.png" width=50% height=50%>
 
 ## There are two version of the game
 
